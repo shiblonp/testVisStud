@@ -117,7 +117,6 @@ namespace lab1
                 Console.Write("\n");
                 position++;
             }
-            Console.WriteLine("Please work");
             Console.Read();
         }
     }
