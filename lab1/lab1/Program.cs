@@ -8,6 +8,7 @@ namespace lab1
 {
     class Program
     {
+     
         public class Team//parent class team 
         {
             public string name;//holds general variable of all teams teamName
@@ -116,7 +117,7 @@ namespace lab1
                 Console.Write("\n");
                 position++;
             }
-         
+            Console.WriteLine("Please work");
             Console.Read();
         }
     }
